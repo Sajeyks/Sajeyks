@@ -17,10 +17,8 @@
 
 <br>
 
-
+<br>
 
 ![](https://komarev.com/ghpvc/?username=Sajeyks&color=blueviolet)
 
-[linkedin]: https://www.linkedin.com/in/samuel-mwangi-ab2452211/
-[stackoverflow]: https://stackoverflow.com/users/12601926/sajeyks-mwangi
-[twitter]: https://mobile.twitter.com/sam11096199/
+<br>
