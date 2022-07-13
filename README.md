@@ -1,4 +1,4 @@
-## How you doin :wink:, my name is Sajeyks
+## How you doin:wink:, my name is Sajeyks
 <br>
 
 ## I'm a Student, Developer, Tutor, Contributor and not a Husband!
