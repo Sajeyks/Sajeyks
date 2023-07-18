@@ -6,9 +6,12 @@
  - :capital_abcd: Teaching here and there
  - :construction: Doing major constructions
  - :two_men_holding_hands: Working on collaboration projects
- - :telescope: Looking foward to other collabos
+ - :telescope: Looking forward to other collabos
  - :point_right: Probably pissing someone off :bomb: somewhere :smile:
 <br>
+
+## Coming soon!
+- Implementing Multitenancy in Django:4 Methods & Techniques
 
 ## Published Courses
 - [Custom User Authentication With Simple-JWT in Django RESTful](https://www.educative.io/courses/custom-user-authentication-with-simple-jwt-in-django-restful)
