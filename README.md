@@ -2,7 +2,7 @@
 <br>
 
 ## I'm a Student, Developer, Tutor, Contributor and not a Husband!
- - :construction: Doing major constructions
+ - :construction: Doing major constructions 🏗️
  - :seedling: I'm currently learning everything
  - :capital_abcd: Teaching here and there
  - :two_men_holding_hands: Working on collaboration projects
