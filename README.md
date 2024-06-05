@@ -17,6 +17,7 @@
 - [Custom User Authentication With Simple-JWT in Django RESTful](https://www.educative.io/courses/custom-user-authentication-with-simple-jwt-in-django-restful)
 
 ## Published Tutorials
+>NB: They were initialy published on Educative Engineering Program by Section.io, but after being acquired by webscale, some articles got lost but I salvaged those that I was able to. Enjoy!
  - [Implement Multitenancy with Multiple Databases in Django](https://www.section.io/engineering-education/implement-multitenancy-with-multiple-databases-in-django/)
  - [Effects of Feature Scaling on a Machine Learning Model](https://web.archive.org/web/20230526090806/https://www.section.io/engineering-education/feature-scaling-effects-machine-learning-model/)
  - [Integrating Youtube Videos Into a Django Application](https://web.archive.org/web/20230110001640/https://www.section.io/engineering-education/integrating-youtube-videos-into-a-django-application/)
