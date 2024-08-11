@@ -11,7 +11,7 @@
 <br>
 
 ## My publicly available works
-* [Clariss](www.clariss.xyz) - It is like Shazam but for colors.
+* [Clariss](https://www.clariss.xyz) - It is like Shazam but for colors.
 
 ## Coming soon!
 - Get spotified.
