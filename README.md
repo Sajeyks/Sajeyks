@@ -16,10 +16,10 @@
 ## Coming soon!
 - Get spotified.
 
-## Published Tutorials
+## Published Courses
 - [Custom User Authentication With Simple-JWT in Django RESTful](https://www.educative.io/courses/custom-user-authentication-with-simple-jwt-in-django-restful)
 
-## Published Articles
+## Published Tutorials
 
 ### Recent
 - [How to Install Wireguard VPN on Debian 12](https://docs.vultr.com/how-to-install-wireguard-vpn-on-debian-12)
