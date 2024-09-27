@@ -16,10 +16,16 @@
 ## Coming soon!
 - Get spotified.
 
-## Published Courses
+## Published Tutorials
 - [Custom User Authentication With Simple-JWT in Django RESTful](https://www.educative.io/courses/custom-user-authentication-with-simple-jwt-in-django-restful)
 
-## Published Tutorials
+## Published Articles
+
+### Recent
+- [How to Install Wireguard VPN on Debian 12](https://docs.vultr.com/how-to-install-wireguard-vpn-on-debian-12)
+- [How to Install iRedMail on Ubuntu 24.04](https://docs.vultr.com/how-to-install-iredmail-on-ubuntu-24-04)
+
+### Older
 >NB: They were initially published on Educative Engineering Program by Section.io, but after being acquired by Webscale, some articles got lost but I salvaged those that I was able to. Enjoy!
  - [Implement Multitenancy with Multiple Databases in Django](https://web.archive.org/web/20230501050743/https://www.section.io/engineering-education/implement-multitenancy-with-multiple-databases-in-django/)
  - [Effects of Feature Scaling on a Machine Learning Model](https://web.archive.org/web/20230526090806/https://www.section.io/engineering-education/feature-scaling-effects-machine-learning-model/)
