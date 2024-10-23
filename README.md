@@ -22,6 +22,7 @@
 ## Published Tutorials
 
 ### Recent
+- [How to install FreeRADIUS with PostgreSQL](https://docs.vultr.com/how-to-install-freeradius-with-postgresql)
 - [How to Install Wireguard VPN on Debian 12](https://docs.vultr.com/how-to-install-wireguard-vpn-on-debian-12)
 - [How to Install iRedMail on Ubuntu 24.04](https://docs.vultr.com/how-to-install-iredmail-on-ubuntu-24-04)
 
