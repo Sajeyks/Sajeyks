@@ -7,7 +7,6 @@
  - :capital_abcd: Teaching here and there
  - :two_men_holding_hands: Working on collaboration projects
  - :telescope: Looking forward to other collabos
- - :point_right: Probably pissing someone off :bomb: somewhere :smile:
 <br>
 
 ## My publicly available works
