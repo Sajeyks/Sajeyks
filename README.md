@@ -14,7 +14,7 @@
 * [Clariss](https://www.clariss.xyz) - It is like Shazam but for colors.
 
 ## Coming soon!
-- Get spotified.
+- Davina Radius.
 
 ## Published Courses
 - [Custom User Authentication With Simple-JWT in Django RESTful](https://www.educative.io/courses/custom-user-authentication-with-simple-jwt-in-django-restful)
