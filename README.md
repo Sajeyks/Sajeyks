@@ -42,14 +42,14 @@ NB: They were initially published in the Section Engineering Program by Section.
  - [Getting Started with Structs Sorting in C++](https://web.archive.org/web/20220929071550/https://www.section.io/engineering-education/getting-started-with-structs-sorting-in-c++/)
  - [How to Customize the Django Admin Site](https://web.archive.org/web/20210421054330/https://www.section.io/engineering-education/customizing-django-admin/)
  - [Integrating Django with TinyMCE](https://web.archive.org/web/20210518170718/https://www.section.io/engineering-education/integrating-django-with-tinymce/)
- - [An Extense Guide On Handling Images In Django](https://web.archive.org/web/20220516011550/https://www.section.io/engineering-education/an-extensive-guide-on-handling-images-in-django/)
+ - [An Extensive Guide On Handling Images In Django](https://web.archive.org/web/20220516011550/https://www.section.io/engineering-education/an-extensive-guide-on-handling-images-in-django/)
  - [How to Manage Removable Drives in C#](https://www.section.io/engineering-education/how-to-create-a-winforms-io-manager-for-removable-drives-in-csharp/)
 
 
 
 ## Connect with me
 <p align="start">
-<a href="https://x.com/ahsam254"><img src="https://img.icons8.com/?size=100&id=01GWmP9aUoPj&format=png&color=000000" alt="x"/></a>
+<a href="https://x.com/ahsam254"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" alt="x"/></a>
 </p>
 <br>
 
