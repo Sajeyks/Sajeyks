@@ -49,7 +49,7 @@ NB: They were initially published in the Section Engineering Program by Section.
 
 ## Connect with me
 <p align="start">
-<a href="https://x.com/ahsam254"><img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="x"/></a>
+<a href="https://x.com/ahsam254"><img src="https://img.icons8.com/?size=100&id=01GWmP9aUoPj&format=png&color=000000" alt="x"/></a>
 </p>
 <br>
 
