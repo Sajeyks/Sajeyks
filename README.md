@@ -11,7 +11,8 @@
 
 ## My publicly available works
 * [Clariss](https://www.clariss.xyz) - It is like Shazam but for colors.
-* [RFTs](https://rfts.app) - Find, wishlist, and book your next tours or activities in Africa across 13+ categories. From mountain hikes to beach vacations.
+* [57places](https://57places.com) - Find, wishlist, and book your next tours or activities in Africa across 13+ categories. From mountain hikes to beach vacations.
+* [DavinaRadius](https://davinaradius.com) - Automate your ISP AAA operations without monthly subscriptions or user limits. Connect users connected via PPPOE, and hotspots (Voucher-based and Account-based). You don't need a public IP or an M-Pesa paybill number; collect payments directly into your bank account or M-Pesa. Also, Mikrotik configuration is automated.
 
 ## Coming soon!
 - Davina Radius.
@@ -22,6 +23,7 @@
 ## Published Tutorials
 
 ### Recent
+- [How to Back Up and Restore PostgreSQL Databases to S3-Compatible Storage in Coolify](https://docs.vultr.com/how-to-back-up-and-restore-postgresql-databases-to-s3-compatible-storage-in-coolify)
 - [How to Deploy a PostgreSQL Cluster with Patroni and HAProxy on Ubuntu 24.04](https://docs.vultr.com/how-to-deploy-a-postgresql-cluster-with-patroni-and-haproxy-on-ubuntu-24-04)
 - [How to install ElasticSearch on Ubuntu 24.04](https://docs.vultr.com/how-to-install-elasticsearch-on-ubuntu-24-04)
 - [How to install cockpit on debian-12](https://docs.vultr.com/how-to-install-cockpit-on-debian-12)
