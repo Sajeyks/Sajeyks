@@ -47,7 +47,7 @@
 
 ## Connect with me
 <p align="start">
-<a href="https://stackoverflow.com/users/12601926/random-user"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
+<a href="https://x.com/ahsam254"><img src="https://img.icons8.com/color/50/000000/X.png" alt="x"/></a>
 </p>
 
 <br>
