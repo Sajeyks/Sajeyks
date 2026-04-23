@@ -15,7 +15,9 @@
 * [DavinaRadius](https://davinaradius.com) - Automate your ISP AAA operations without monthly subscriptions or user limits. Connect users connected via PPPOE, and hotspots (Voucher-based and Account-based). You don't need a public IP or an M-Pesa paybill number; collect payments directly into your bank account or M-Pesa. Also, Mikrotik configuration is automated.
 
 ## Coming soon!
-- Davina Radius.
+- STOP - A very interesting word game
+- Undisclosed product X
+- Undisclosed product Y
 
 ## Published Courses
 - [Custom User Authentication With Simple-JWT in Django RESTful](https://www.educative.io/courses/custom-user-authentication-with-simple-jwt-in-django-restful)
