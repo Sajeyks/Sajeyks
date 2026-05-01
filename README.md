@@ -1,7 +1,7 @@
 ## :wink:How you doin'! It's Sajeyks here!
 <br>
 
-## I'm a Django backend developer, tutor, and contributor
+## I'm a Senior web developer, tutor, and contributor
  - :construction: Doing major constructions 🏗️
  - :seedling: I'm currently learning everything
  - :capital_abcd: Teaching here and there
