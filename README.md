@@ -7,6 +7,7 @@
  - :capital_abcd: Teaching here and there
  - :telescope: Looking forward to other partnerships that solve painful problems 
 <br>
+
 ## My publicly available works
 * [Clariss](https://www.clariss.xyz) - It is like Shazam but for colors.
 * [57places](https://57places.com) - Find, wishlist, and book your next tours or activities in Africa across 13+ categories. From mountain hikes to beach vacations.
