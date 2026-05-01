@@ -2,11 +2,10 @@
 <br>
 
 ## I'm a Senior web developer, tutor, and contributor
- - :construction: Doing major constructions 🏗️
- - :seedling: I'm currently learning everything
+ - :construction: Doing major solution-driven developments 🏗️
+ - :seedling: Always learning something
  - :capital_abcd: Teaching here and there
- - :two_men_holding_hands: Working on collaboration projects
- - :telescope: Looking forward to other collabos
+ - :telescope: Looking forward to other partnerships that solve painful problems 
 <br>
 
 ## My publicly available works
