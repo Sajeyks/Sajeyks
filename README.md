@@ -7,7 +7,6 @@
  - :capital_abcd: Teaching here and there
  - :telescope: Looking forward to other partnerships that solve painful problems 
 <br>
-
 ## My publicly available works
 * [Clariss](https://www.clariss.xyz) - It is like Shazam but for colors.
 * [57places](https://57places.com) - Find, wishlist, and book your next tours or activities in Africa across 13+ categories. From mountain hikes to beach vacations.
@@ -45,16 +44,18 @@ NB: They were initially published in the Section Engineering Program by Section.
  - [How to Manage Removable Drives in C#](https://www.section.io/engineering-education/how-to-create-a-winforms-io-manager-for-removable-drives-in-csharp/)
 
 
-
+<!--
 ## Connect with me
 <p align="start">
 <a href="https://x.com/ahsam254"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" alt="x"/></a>
 </p>
-<br>
+<br> 
+-->
 
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Sajeyks&color=blueviolet)
 
 <br>
+
 
