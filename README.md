@@ -24,6 +24,7 @@
 ## Published Tutorials
 
 ### Recent
+- [How to Deploy SeaweedFS – An open-source S3 Storage Alternative to MinIO](https://docs.vultr.com/how-to-deploy-seaweedfs-an-open-source-s3-storage-alternative-to-minio)
 - [How to Back Up and Restore PostgreSQL Databases to S3-Compatible Storage in Coolify](https://docs.vultr.com/how-to-back-up-and-restore-postgresql-databases-to-s3-compatible-storage-in-coolify)
 - [How to Deploy a PostgreSQL Cluster with Patroni and HAProxy on Ubuntu 24.04](https://docs.vultr.com/how-to-deploy-a-postgresql-cluster-with-patroni-and-haproxy-on-ubuntu-24-04)
 - [How to install ElasticSearch on Ubuntu 24.04](https://docs.vultr.com/how-to-install-elasticsearch-on-ubuntu-24-04)
