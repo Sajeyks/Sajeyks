@@ -1,7 +1,7 @@
 ## :wink:How you doin'! It's Sajeyks here!
 <br>
 
-## I'm a Senior web developer, tutor, and contributor
+## I'm a Founding Engineer., tutor, and contributor
  - :construction: Doing major solution-driven developments 🏗️
  - :seedling: Always learning something
  - :capital_abcd: Teaching here and there
@@ -12,9 +12,9 @@
 * [Clariss](https://www.clariss.xyz) - It is like Shazam but for colors.
 * [57places](https://57places.com) - Find, wishlist, and book your next tours or activities in Africa across 13+ categories. From mountain hikes to beach vacations.
 * [DavinaRadius](https://davinaradius.com) - Automate your ISP AAA operations without monthly subscriptions or user limits. Connect users connected via PPPOE, and hotspots (Voucher-based and Account-based). You don't need a public IP or an M-Pesa paybill number; collect payments directly into your bank account or M-Pesa. Also, Mikrotik configuration is automated.
+* [Take5](https://take5game.com) - Guess the hidden word one letter at a time before you run out of chances.
 
 ## Coming soon!
-- STOP - A very interesting word game
 - Undisclosed product X
 - Undisclosed product Y
 
